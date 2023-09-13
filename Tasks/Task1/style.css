@@ -86,7 +86,7 @@ html{
         background-color:grey;
         position:absolute;
         left:0px;
-        margin-top:1px;
+        margin-top:0px;
         height:90px;
         width:100%;
         z-index:-1;
@@ -95,7 +95,7 @@ html{
     h1{
         color:black;
         text-shadow:2px 2px 16px red;
-        font-size:100px;
+        font-size:80px;
         text-align: center;
         margin-top:0px;
     }
